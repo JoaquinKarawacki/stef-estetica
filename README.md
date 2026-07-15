@@ -1,6 +1,6 @@
 # Stef Valdez — Estética Integral
 
-Sitio web + sistema de reservas para **Stef Valdez, Estética Integral** (Zona Centro,
+Sitio web + sistema de reservas para **Stef Valdez, Estética Integral** (Cordón,
 Montevideo). Depilación láser y estética integral. Next.js 16 + TypeScript + Tailwind CSS v4 +
 Framer Motion + Prisma (SQLite).
 

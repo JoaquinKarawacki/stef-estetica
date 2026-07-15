@@ -106,8 +106,13 @@ export function AdminDashboard() {
           <TabsList>
             <TabsTrigger value="agenda">Agenda</TabsTrigger>
             <TabsTrigger value="reservas">Reservas</TabsTrigger>
-            <TabsTrigger value="notificaciones">
-              Notificaciones{unreadCount > 0 ? ` (${unreadCount})` : ""}
+            <TabsTrigger value="notificaciones" className="flex items-center gap-1.5">
+              Notificaciones
+              {unreadCount > 0 && (
+                <span className="grid h-4 min-w-4 place-items-center rounded-full bg-burgundy-500 px-1 text-[10px] text-ink-900">
+                  {unreadCount}
+                </span>
+              )}
             </TabsTrigger>
             <TabsTrigger value="disponibilidad">Disponibilidad</TabsTrigger>
           </TabsList>

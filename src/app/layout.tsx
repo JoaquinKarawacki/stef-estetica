@@ -24,7 +24,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Stef Valdez — Estética Integral",
   description:
-    "Depilación láser y estética integral en Zona Centro, Montevideo. Sentite libre, cómoda y segura en tu piel. Reservá tu turno por WhatsApp.",
+    "Depilación láser y estética integral en Cordón, Montevideo. Sentite libre, cómoda y segura en tu piel. Reservá tu turno por WhatsApp.",
 };
 
 export default function RootLayout({

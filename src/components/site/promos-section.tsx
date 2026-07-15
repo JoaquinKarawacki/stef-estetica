@@ -64,7 +64,7 @@ export function PromosSection() {
               <div className="relative mt-5 flex flex-wrap items-center gap-x-5 gap-y-1.5 text-[11px] font-medium tracking-wide text-ink-700/50 uppercase">
                 <span className="flex items-center gap-1.5">
                   <MapPin className="h-3.5 w-3.5 text-burgundy-400" />
-                  Zona Centro
+                  Cordón
                 </span>
                 <span className="flex items-center gap-1.5">
                   <Calendar className="h-3.5 w-3.5 text-burgundy-400" />

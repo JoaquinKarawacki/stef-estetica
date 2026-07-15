@@ -8,7 +8,7 @@ export function LocationSection() {
   return (
     <section id="ubicacion" className="relative bg-blush-50/50 py-24 sm:py-32">
       <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-        <SectionEyebrowHeading eyebrow="Visitanos" title="Te esperamos en Zona Centro" />
+        <SectionEyebrowHeading eyebrow="Visitanos" title="Te esperamos en Cordón" />
 
         <div className="mt-14 grid grid-cols-1 gap-6 lg:grid-cols-5">
           <ScrollReveal className="overflow-hidden rounded-[2rem] border border-ink-700/[0.06] shadow-[0_20px_60px_-35px_rgba(74,47,52,0.3)] lg:col-span-3">

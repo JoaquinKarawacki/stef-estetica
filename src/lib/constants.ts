@@ -4,8 +4,8 @@ export const BRAND = {
   phoneDisplay: "094 995 931",
   phoneRaw: "59894995931",
   whatsappUrl: "https://wa.me/59894995931",
-  address: "Paysandú 1833, Montevideo, Uruguay 11200",
-  addressShort: "Paysandú 1833, Montevideo",
+  address: "Paysandú 1833, Cordón, Montevideo, Uruguay 11200",
+  addressShort: "Paysandú 1833, Cordón",
   professional: "Stef Valdez",
   slogans: [
     "Sentite libre, cómoda y segura en tu piel",
